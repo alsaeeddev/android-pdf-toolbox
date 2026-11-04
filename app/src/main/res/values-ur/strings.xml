@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">myPrev</string>
+    <string name="app_tagline">دیکھیں۔ ترمیم کریں۔ دستخط کریں۔</string>
+
+    <!-- Navigation & Tabs -->
+    <string name="tab_recent">حالیہ</string>
+    <string name="tab_favorites">پسندیدہ</string>
+    <string name="tab_all_files">تمام پی ڈی ایف</string>
+    <string name="tab_tools">ٹولز</string>
+
+    <!-- Actions -->
+    <string name="action_open_pdf">پی ڈی ایف کھولیں</string>
+    <string name="action_search_hint">پی ڈی ایف فائلیں تلاش کریں...</string>
+    <string name="action_settings">ترتیبات</string>
+    <string name="action_edit">ترمیم و تشریح</string>
+    <string name="action_save">محفوظ کریں</string>
+    <string name="action_share">پی ڈی ایف شیئر کریں</string>
+    <string name="action_close">بند کریں</string>
+    <string name="action_cancel">منسوخ کریں</string>
+    <string name="action_delete">حذف کریں</string>
+    <string name="action_remove">ہٹائیں</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_skip">چھوڑیں</string>
+    <string name="onboarding_continue">جاری رکھیں</string>
+    <string name="onboarding_get_started">شروع کریں</string>
+
+    <!-- Settings -->
+    <string name="settings_title">ترتیبات</string>
+    <string name="settings_appearance">ظاہری شکل</string>
+    <string name="settings_theme">ایپ تھیم</string>
+    <string name="settings_dynamic_colors">متحرک رنگ</string>
+    <string name="settings_viewer">پی ڈی ایف ناظر</string>
+    <string name="settings_storage">اسٹوریج اور کیشے</string>
+    <string name="settings_about">myPrev کے بارے میں</string>
+    <string name="settings_privacy">رازداری اور تحفظ</string>
+
+    <!-- Tools -->
+    <string name="tool_merge">پی ڈی ایف ضم کریں</string>
+    <string name="tool_split">پی ڈی ایف تقسیم کریں</string>
+    <string name="tool_compress">پی ڈی ایف سکیڑیں</string>
+    <string name="tool_images_to_pdf">تصاویر سے پی ڈی ایف</string>
+    <string name="tool_pdf_to_images">پی ڈی ایف سے تصاویر</string>
+    <string name="tool_protect">پاس ورڈ سے محفوظ کریں</string>
+    <string name="tool_watermark">واٹر مارک شامل کریں</string>
+    <string name="tool_extract_text">متن نکالیں</string>
+</resources>

@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">myPrev</string>
+    <string name="app_tagline">View. Edit. Sign.</string>
+
+    <!-- Navigation & Tabs -->
+    <string name="tab_recent">Recent</string>
+    <string name="tab_favorites">Favorites</string>
+    <string name="tab_all_files">All PDFs</string>
+    <string name="tab_tools">Tools</string>
+
+    <!-- Actions -->
+    <string name="action_open_pdf">Open PDF</string>
+    <string name="action_search_hint">Search PDF files...</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_edit">Edit &amp; Annotate</string>
+    <string name="action_save">Save</string>
+    <string name="action_share">Share PDF</string>
+    <string name="action_close">Close</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_remove">Remove</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_skip">Skip</string>
+    <string name="onboarding_continue">Continue</string>
+    <string name="onboarding_get_started">Get Started</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_appearance">Appearance</string>
+    <string name="settings_theme">App Theme</string>
+    <string name="settings_dynamic_colors">Dynamic Colors</string>
+    <string name="settings_viewer">PDF Viewer</string>
+    <string name="settings_storage">Storage &amp; Cache</string>
+    <string name="settings_about">About myPrev</string>
+    <string name="settings_privacy">Privacy &amp; Security</string>
+
+    <!-- Tools -->
+    <string name="tool_merge">Merge PDFs</string>
+    <string name="tool_split">Split PDF</string>
+    <string name="tool_compress">Compress PDF</string>
+    <string name="tool_images_to_pdf">Images to PDF</string>
+    <string name="tool_pdf_to_images">PDF to Images</string>
+    <string name="tool_protect">Protect with Password</string>
+    <string name="tool_watermark">Add Watermark</string>
+    <string name="tool_extract_text">Extract Text</string>
+</resources>

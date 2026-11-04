@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="160dp"
+    android:height="160dp"
+    android:viewportWidth="160"
+    android:viewportHeight="160">
+
+    <!-- Rounded square badge -->
+    <path android:pathData="M32,16 L128,16 C136.8,16 144,23.2 144,32 L144,128 C144,136.8 136.8,144 128,144 L32,144 C23.2,144 16,136.8 16,128 L16,32 C16,23.2 23.2,16 32,16 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="16"
+                android:startY="16"
+                android:endX="144"
+                android:endY="144"
+                android:type="linear">
+                <item android:color="#4F46E5" android:offset="0.0" />
+                <item android:color="#14B8A6" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Document shadow -->
+    <path
+        android:fillColor="#24000000"
+        android:pathData="M52,38 L88,38 L110,60 L110,118 C110,121.3 107.3,124 104,124 L52,124 C48.7,124 46,121.3 46,118 L46,44 C46,40.7 48.7,38 52,38 Z" />
+
+    <!-- White Page -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M50,36 L86,36 L108,58 L108,116 C108,119.3 105.3,122 102,122 L50,122 C46.7,122 44,119.3 44,116 L44,42 C44,38.7 46.7,36 50,36 Z" />
+
+    <!-- Folded dog ear -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M86,36 L108,58 L86,58 Z" />
+
+    <!-- Lines -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#CBD5E1"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M56,68 H96" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#CBD5E1"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M56,79 H96" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#CBD5E1"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M56,90 H78" />
+
+    <!-- Pen nib -->
+    <path
+        android:fillColor="#4F46E5"
+        android:pathData="M85,48 L100,33 L107,40 L92,55 Z" />
+    <path
+        android:fillColor="#14B8A6"
+        android:pathData="M85,48 L76,57 L85,64 L92,55 Z" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M76,57 L85,52" />
+
+    <!-- Sparkle flourish stroke -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#14B8A6"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M72,100 C78,107 90,108 100,102 C106,99 108,94 104,91 C99,87 95,93 101,100" />
+
+    <path
+        android:fillColor="#5EEAD4"
+        android:pathData="M110,87 C110,89 108,91 106,91 C108,91 110,93 110,95 C110,93 112,91 114,91 C112,91 110,89 110,87 Z" />
+</vector>
